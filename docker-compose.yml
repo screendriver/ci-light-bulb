@@ -6,7 +6,7 @@ volumes:
 
 services:
   redis:
-    image: redis:6.0.9-alpine
+    image: redis:6.2.4-alpine
     command: ['redis-server', '--appendonly', 'yes']
     hostname: redis
     ports:
