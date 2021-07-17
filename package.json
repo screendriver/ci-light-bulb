@@ -33,7 +33,7 @@
     "@types/chai": "4.2.21",
     "@types/got": "9.6.12",
     "@types/ioredis": "4.26.6",
-    "@types/koa": "2.11.7",
+    "@types/koa": "2.13.4",
     "@types/koa-bodyparser": "4.3.2",
     "@types/koa-compose": "3.2.5",
     "@types/koa-pino-logger": "3.0.0",
